@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /home/ubuntu/chatapp/new_chatapp
+    destination: /var/lib/jenkins/workspace/chat-app
 hooks:
   BeforeInstall:
     - location: /scripts/install_dependencies.sh
