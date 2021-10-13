@@ -1,4 +1,4 @@
 #!/bin/bash
 
-source /var/lib/jenkins/workspace/chat-app/venv/bin/activate
-cd /var/lib/jenkins/workspace/chat-app
+source /home/ubuntu/chatapp/new_chatapp/venv/bin/activate
+cd /home/ubuntu/chatapp/new_chatapp
