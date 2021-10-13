@@ -1,4 +1,4 @@
 #!/bin/bash
 
-source /home/ubuntu/new_chatapp/chatapp/venv/bin/activate
-cd /home/ubuntu/new_chatapp/chatapp
+source /home/ubuntu/chatapp/new_chatapp/venv/bin/activate
+cd /home/ubuntu/chatapp/new_chatapp
